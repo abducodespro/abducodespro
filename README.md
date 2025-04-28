@@ -1,6 +1,6 @@
-![Technologi GoDaddy Store Image](https://github.com/user-attachments/assets/36a190a4-9730-4bae-86da-e03029ba5fc3)
+![Technologi GoDaddy Store Image](https://github.com/user-attachments/assets/c65ad09b-dca2-46c1-8acd-367408b35889)
 <h1>Hi 👋, I'm Abdulsomed Jibril</h1>
-<p>A passionate Full Stack developer and MERN Stack expert.</p>
+<p>A passionate <b>Full Stack developer</b> and <b>MERN Stack</b> expert.</p>
 <p>🔭 Currently exploring the exciting worlds of IoT, Full-Stack Web Development, and Networking</p>
 <p>🚀 Always learning, always building — open to collaborations and freelance opportunities!</p>
 <hr/>
